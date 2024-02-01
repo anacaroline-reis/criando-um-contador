@@ -9,4 +9,4 @@ Este código visa auxiliar os iniciantes em programação em JavaScript.
 
 
 ## Links úteis
-- [Download do VS Code](https://code.visualstudio.com/))
+- [Download do VS Code](https://code.visualstudio.com/)
